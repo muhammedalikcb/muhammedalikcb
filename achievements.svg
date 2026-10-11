@@ -13,7 +13,8 @@
   <text class="m x" x="292" y="96">4 · unlocks at 16 (12 to go)</text>
   <text class="t s" x="20" y="122">Galaxy Brain</text>
   <rect class="track" x="130" y="112" rx="4" width="150" height="10"/>
-  <text class="m x" x="292" y="122">0 · unlocks at 2 (2 to go)</text>
+  <rect class="bar" x="130" y="112" rx="4" width="37" height="10"/>
+  <text class="m x" x="292" y="122">2 · unlocked, x2 at 8 (6 to go)</text>
   <text class="t s" x="20" y="156" font-weight="600">One-time &amp; Profile highlights</text>
   <circle class="ok" cx="26" cy="176" r="5"/>
   <text class="t s" x="38" y="180">Quickdraw</text>
