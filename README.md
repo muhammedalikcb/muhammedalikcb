@@ -56,4 +56,4 @@ Medium ([medium.com/@muhammedalikocabey](https://medium.com/@muhammedalikocabey)
 
 ## Certifications and Education
 
-PSD I, PSM I (Scrum.org); Deep Learning Specialization (DeepLearning.AI, 2020); BSc Computer Engineering, Konya Technical University (2016 to 2021), MSc in progress.
+PSD I, PSM I (Scrum.org); Deep Learning Specialization (DeepLearning.AI, 2020); BSc Computer Engineering, Konya Technical University (2016 to 2021).
