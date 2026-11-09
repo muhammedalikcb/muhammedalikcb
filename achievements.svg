@@ -20,7 +20,7 @@
   <text class="t s" x="38" y="180">Quickdraw</text>
   <circle class="ok" cx="266" cy="176" r="5"/>
   <text class="t s" x="278" y="180">YOLO</text>
-  <circle class="ok" cx="26" cy="200" r="5"/>
+  <circle class="no" cx="26" cy="200" r="5"/>
   <text class="t s" x="38" y="204">Public Sponsor</text>
   <circle class="ok" cx="266" cy="200" r="5"/>
   <text class="t s" x="278" y="204">Developer Program Member</text>
